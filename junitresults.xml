@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="4" time="11.022">
+ <testsuite name="Landing Page Validation" timestamp="2020-04-27T14:36:02" hostname="localhost" time="7.906" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="Landing Page Validation" name="Validate URL" time="5.067" />
+  <testcase classname="Landing Page Validation" name="Validate Title" time="2.838" />
+ </testsuite>
+ <testsuite name="Input Field" timestamp="2020-04-27T14:36:10" hostname="localhost" time="3.116" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="Input Field" name="input Field can receive data" time="0.212" />
+  <testcase classname="Input Field" name="Button text changes to imput data" time="0.025" />
+ </testsuite>
+</testsuites>
