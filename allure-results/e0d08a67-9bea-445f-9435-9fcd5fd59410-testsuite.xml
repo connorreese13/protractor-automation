@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1589400714558' stop='1589400722734'>
+    <name>Landing Page Validation</name>
+    <title>Landing Page Validation</title>
+    <test-cases>
+        <test-case start='1589400714559' status='passed' stop='1589400719869'>
+            <name>Validate URL</name>
+            <title>Validate URL</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1589400719869' status='passed' stop='1589400722733'>
+            <name>Validate Title</name>
+            <title>Validate Title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

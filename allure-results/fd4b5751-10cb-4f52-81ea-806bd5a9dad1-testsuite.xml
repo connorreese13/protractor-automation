@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1589400722739' stop='1589400725916'>
+    <name>Input Field</name>
+    <title>Input Field</title>
+    <test-cases>
+        <test-case start='1589400725696' status='passed' stop='1589400725890'>
+            <name>input Field can receive data</name>
+            <title>input Field can receive data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1589400725890' status='passed' stop='1589400725916'>
+            <name>Button text changes to imput data</name>
+            <title>Button text changes to imput data</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

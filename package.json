@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chromedriver": "^81.0.0"
+    "allure-commandline": "^2.13.0",
+    "chromedriver": "^81.0.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor": "^5.4.4",
+    "protractor-html-reporter-2": "^1.0.4"
   },
   "devDependencies": {
     "jasmine-reporters": "^2.3.2"

@@ -11,7 +11,7 @@ describe("Landing Page Validation", () => {
     browser.get("https://angularjs.org/");
     browser.sleep(2000);
     expect(browser.getTitle()).toBe(
-      "AngularJS — Superheroic JavaScript MVW Framework"
+      "AngularJS — Superheroic JavaScript MVW Framewor"
     );
   });
 });
