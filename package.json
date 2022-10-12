@@ -16,6 +16,6 @@
     "protractor-html-reporter-2": "^1.0.4"
   },
   "devDependencies": {
-    "jasmine-reporters": "^2.3.2"
+    "jasmine-reporters": "^2.5.0"
   }
 }
